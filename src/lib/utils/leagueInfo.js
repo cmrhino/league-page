@@ -7,12 +7,15 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  <h2>Welcome to the Justice League on Sleeper!</h2>
+
+<p>Get ready to embark on an epic journey filled with excitement, competition, and camaraderie. As current fantasy football teams, you have been chosen to join this prestigious league where only the best of the best gather to test their skills and knowledge of the game.</p> 
+
+<p>Just like the superheroes in the Justice League, you possess unique talents and strategies that will set you apart from the rest. Whether you're a master in drafting, a genius at trades, or a savvy manager in navigating waivers, your skills will be put to the test against other formidable opponents.</p> 
+
+<p>But remember, it's not just about winning. It's about the bond that forms within this league, the friendships that are forged, and the memories that are created. Together, you will experience the highs and lows of fantasy football, supporting each other through victories and defeats.</p>
+
+<p>So gather your team, choose your lineup, and get ready to unleash your inner superhero on the virtual gridiron. The Justice League on Sleeper awaits, and the battle for dominance begins now!</p> 
 `;
 
 /*   STEP 3   */
