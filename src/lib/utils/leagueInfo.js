@@ -7,8 +7,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <h2>Welcome to the Justice League on Sleeper!</h2>
-
+  
 <p>Get ready to embark on an epic journey filled with excitement, competition, and camaraderie. As current fantasy football teams, you have been chosen to join this prestigious league where only the best of the best gather to test their skills and knowledge of the game.</p> 
 
 <p>Just like the superheroes in the Justice League, you possess unique talents and strategies that will set you apart from the rest. Whether you're a master in drafting, a genius at trades, or a savvy manager in navigating waivers, your skills will be put to the test against other formidable opponents.</p> 
