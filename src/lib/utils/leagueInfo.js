@@ -8,13 +8,11 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 /*   STEP 2   */
 export const homepageText = `
   
-<p>Get ready to embark on an epic journey filled with excitement, competition, and camaraderie. As current fantasy football teams, you have been chosen to join this prestigious league where only the best of the best gather to test their skills and knowledge of the game.</p> 
+<p>Welcome to the League of Doom, where fantasy football transcends mere competition and transforms into an epic battle of wits and strategy! In this league, only the most cunning managers will rise to glory as they draft their dream teams, navigate the treacherous waters of trades, and outsmart their opponents week after week.
 
-<p>Just like the superheroes in the League of Doom, you possess unique talents and strategies that will set you apart from the rest. Whether you're a master in drafting, a genius at trades, or a savvy manager in navigating waivers, your skills will be put to the test against other formidable opponents.</p> 
+Each matchup is a clash of titans, with head-to-head battles that will test your skills in player selection and game-day decisions. Join us for a season filled with thrilling victories, devastating defeats, and unforgettable moments that will echo through the annals of fantasy football history.
 
-<p>But remember, it's not just about winning. It's about the bond that forms within this league, the friendships that are forged, and the memories that are created. Together, you will experience the highs and lows of fantasy football, supporting each other through victories and defeats.</p>
-
-<p>So gather your team, choose your lineup, and get ready to unleash your inner superhero on the virtual gridiron. The League of Doom on Sleeper awaits, and the battle for dominance begins now!</p> 
+Are you ready to embrace the challenge and claim your place among the legends? Welcome to the League of Doom!</p> 
 `;
 
 /*   STEP 3   */
