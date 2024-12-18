@@ -51,9 +51,9 @@ export const managers = [
      },
      {
       "roster": 2,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-       "name": "Matt",
+       "name": "You're not Worthy",
        "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
-       "location": "Quakertown", // (optional)
+       "location": "", // (optional)
        "bio": "Lorem ipsum...",
        "photo": "/managers/autumn-wind-pickemz.png", // square ratio recommended (no larger than 500x500)
        "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
@@ -73,7 +73,7 @@ export const managers = [
      },
      {
        "roster": 3,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-       "name": "Joe",
+       "name": "The Shield",
       "tookOver": 2021, // (optional) used if a manager took over a team, delete this line or change to null otherwise
        "location": "Oak Creek", // (optional)
        "bio": "Lorem ipsum...",
@@ -95,9 +95,9 @@ export const managers = [
      },
   {
        "roster": 7,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-       "name": "Todd",
+       "name": "Ffb",
       "tookOver": 2021, // (optional) used if a manager took over a team, delete this line or change to null otherwise
-       "location": "Waukesha", // (optional)
+       "location": "", // (optional)
        "bio": "Lorem ipsum...",
        "photo": "/managers/Polish-Falcons-Logo.png", // square ratio recommended (no larger than 500x500)
        "fantasyStart": 2001, // (optional) when did the manager start playing fantasy football
@@ -117,9 +117,9 @@ export const managers = [
      },
   {
        "roster": 8,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-       "name": "Lisa",
+       "name": "Brad",
        "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
-      "location": "Waukesha", // (optional)
+      "location": "Oak Creek", // (optional)
        "bio": "Lorem ipsum...",
        "photo": "/managers/Cliff-Hangers.png", // square ratio recommended (no larger than 500x500)
        "fantasyStart": 2001, // (optional) when did the manager start playing fantasy football
@@ -139,13 +139,13 @@ export const managers = [
      },
   {
        "roster": 5,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-       "name": "Jeremy",
+       "name": "Joe",
        "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
-      "location": "Waukesha", // (optional)
+      "location": "Oak Creek", // (optional)
        "bio": "Lorem ipsum...",
        "photo": "/managers/back2back.png", // square ratio recommended (no larger than 500x500)
        "fantasyStart": 2001, // (optional) when did the manager start playing fantasy football
-       "favoriteTeam": "jax", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
+       "favoriteTeam": "gb", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
        "rival": {
         name: "Rival", // Can be anything (usually your rival's name)
@@ -161,9 +161,9 @@ export const managers = [
      },
   {
        "roster": 4,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-       "name": "Logan",
+       "name": "Dr Evil",
        "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
-      "location": "Waukesha", // (optional)
+      "location": "Oak Creek", // (optional)
        "bio": "Lorem ipsum...",
        "photo": "/managers/Colts.png", // square ratio recommended (no larger than 500x500)
        "fantasyStart": 2001, // (optional) when did the manager start playing fantasy football
@@ -183,57 +183,13 @@ export const managers = [
      },
   {
        "roster": 6,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-       "name": "Steve",
+       "name": "London Bridges",
        "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
-      "location": "Waukesha", // (optional)
+      "location": "", // (optional)
        "bio": "Lorem ipsum...",
        "photo": "/managers/King-of-the-hill.png", // square ratio recommended (no larger than 500x500)
        "fantasyStart": 2001, // (optional) when did the manager start playing fantasy football
        "favoriteTeam": "gb", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
-      "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
-       "rival": {
-        name: "Rival", // Can be anything (usually your rival's name)
-         link: 6, // manager array number within this array, or null to link back to all managers page
-         image: "/managers/rival.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
-       },
-      "favoritePlayer": 6945, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
-       "valuePosition": "RB", // (optional) Favorite position (QB, WR, RB, TE, etc.)
-       "rookieOrVets": "Rookies", // (optional) 'Rookies' or 'Vets' (anything else and you will need to add a new png to /static/ similar to the 'Rookies.png' and 'Vets.png' currently in there)
-       "philosophy": "Your fantasy team's philosophy",
-       "tradingScale": 3, // 1 - 10
-       "preferredContact": "Sleeper", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
-     },
-  {
-       "roster": 9,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-       "name": "Nick",
-       "tookOver": 2024, // (optional) used if a manager took over a team, delete this line or change to null otherwise
-      "location": "Waukesha", // (optional)
-       "bio": "Lorem ipsum...",
-       "photo": "", // square ratio recommended (no larger than 500x500)
-       "fantasyStart": 2024, // (optional) when did the manager start playing fantasy football
-       "favoriteTeam": "", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
-      "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
-       "rival": {
-        name: "Rival", // Can be anything (usually your rival's name)
-         link: 6, // manager array number within this array, or null to link back to all managers page
-         image: "/managers/rival.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
-       },
-      "favoritePlayer": 6945, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
-       "valuePosition": "RB", // (optional) Favorite position (QB, WR, RB, TE, etc.)
-       "rookieOrVets": "Rookies", // (optional) 'Rookies' or 'Vets' (anything else and you will need to add a new png to /static/ similar to the 'Rookies.png' and 'Vets.png' currently in there)
-       "philosophy": "Your fantasy team's philosophy",
-       "tradingScale": 3, // 1 - 10
-       "preferredContact": "Sleeper", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
-     },
-  {
-       "roster": 10,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-       "name": "Sheryl",
-       "tookOver": 2024, // (optional) used if a manager took over a team, delete this line or change to null otherwise
-      "location": "Waukesha", // (optional)
-       "bio": "Lorem ipsum...",
-       "photo": "", // square ratio recommended (no larger than 500x500)
-       "fantasyStart": 2024, // (optional) when did the manager start playing fantasy football
-       "favoriteTeam": "", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
        "rival": {
         name: "Rival", // Can be anything (usually your rival's name)
