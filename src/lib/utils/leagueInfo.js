@@ -94,8 +94,8 @@ export const managers = [
        "preferredContact": "Sleeper", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
      },
   {
-       "roster": 7,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-       "name": "Chris",
+       "roster": 4,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+       "name": "The Shield",
       "tookOver": 2021, // (optional) used if a manager took over a team, delete this line or change to null otherwise
        "location": "", // (optional)
        "bio": "Lorem ipsum...",
@@ -116,8 +116,8 @@ export const managers = [
        "preferredContact": "Sleeper", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
      },
   {
-       "roster": 8,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-       "name": "Dr Evil",
+       "roster": 5,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+       "name": "Your not Worthy",
        "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Oak Creek", // (optional)
        "bio": "Lorem ipsum...",
@@ -138,8 +138,8 @@ export const managers = [
        "preferredContact": "Sleeper", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
      },
   {
-       "roster": 5,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-       "name": "Your not Worthy",
+       "roster": 6,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+       "name": "Brad",
        "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Oak Creek", // (optional)
        "bio": "Lorem ipsum...",
@@ -160,8 +160,8 @@ export const managers = [
        "preferredContact": "Sleeper", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
      },
   {
-       "roster": 4,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-       "name": "The Shield",
+       "roster": 7,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+       "name": "Chris",
        "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "", // (optional)
        "bio": "Lorem ipsum...",
@@ -182,8 +182,8 @@ export const managers = [
        "preferredContact": "Sleeper", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
      },
   {
-       "roster": 6,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-       "name": "Brad",
+       "roster": 8,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+       "name": "Dr Evil",
        "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "", // (optional)
        "bio": "Lorem ipsum...",
