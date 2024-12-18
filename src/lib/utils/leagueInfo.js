@@ -95,9 +95,9 @@ export const managers = [
      },
   {
        "roster": 4,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-       "name": "The Shield",
+       "name": "Chris",
       "tookOver": 2021, // (optional) used if a manager took over a team, delete this line or change to null otherwise
-       "location": "", // (optional)
+       "location": "Milwaukee", // (optional)
        "bio": "Lorem ipsum...",
        "photo": "/managers/comanchero-pickemz.png", // square ratio recommended (no larger than 500x500)
        "fantasyStart": 2001, // (optional) when did the manager start playing fantasy football
@@ -117,7 +117,7 @@ export const managers = [
      },
   {
        "roster": 5,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-       "name": "Your not Worthy",
+       "name": "Brad",
        "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Oak Creek", // (optional)
        "bio": "Lorem ipsum...",
@@ -139,7 +139,7 @@ export const managers = [
      },
   {
        "roster": 6,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-       "name": "Brad",
+       "name": "Dr Evil",
        "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Oak Creek", // (optional)
        "bio": "Lorem ipsum...",
@@ -161,7 +161,7 @@ export const managers = [
      },
   {
        "roster": 7,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-       "name": "Chris",
+       "name": "The Shield",
        "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "", // (optional)
        "bio": "Lorem ipsum...",
@@ -183,7 +183,7 @@ export const managers = [
      },
   {
        "roster": 8,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-       "name": "Dr Evil",
+       "name": "Your not Worthy",
        "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "", // (optional)
        "bio": "Lorem ipsum...",
