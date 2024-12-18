@@ -55,7 +55,7 @@ export const managers = [
        "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
        "location": "", // (optional)
        "bio": "Lorem ipsum...",
-       "photo": "", // square ratio recommended (no larger than 500x500)
+       "photo": "/managers/comanchero-pickemz.png", // square ratio recommended (no larger than 500x500)
        "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
        "favoriteTeam": "lv", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
@@ -77,7 +77,7 @@ export const managers = [
       "tookOver": 2021, // (optional) used if a manager took over a team, delete this line or change to null otherwise
        "location": "", // (optional)
        "bio": "Lorem ipsum...",
-       "photo": "", // square ratio recommended (no larger than 500x500)
+       "photo": "/managers/comanchero-pickemz.png", // square ratio recommended (no larger than 500x500)
        "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
        "favoriteTeam": "gb", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
        "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
@@ -99,7 +99,7 @@ export const managers = [
       "tookOver": 2021, // (optional) used if a manager took over a team, delete this line or change to null otherwise
        "location": "Oak Creek", // (optional)
        "bio": "Lorem ipsum...",
-       "photo": "", // square ratio recommended (no larger than 500x500)
+       "photo": "/managers/comanchero-pickemz.png", // square ratio recommended (no larger than 500x500)
        "fantasyStart": 2001, // (optional) when did the manager start playing fantasy football
        "favoriteTeam": "mia", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
        "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
@@ -121,7 +121,7 @@ export const managers = [
        "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Oak Creek", // (optional)
        "bio": "Lorem ipsum...",
-       "photo": "", // square ratio recommended (no larger than 500x500)
+       "photo": "/managers/comanchero-pickemz.png", // square ratio recommended (no larger than 500x500)
        "fantasyStart": 2001, // (optional) when did the manager start playing fantasy football
        "favoriteTeam": "gb", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
@@ -143,7 +143,7 @@ export const managers = [
        "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Oak Creek", // (optional)
        "bio": "Lorem ipsum...",
-       "photo": "", // square ratio recommended (no larger than 500x500)
+       "photo": "/managers/comanchero-pickemz.png", // square ratio recommended (no larger than 500x500)
        "fantasyStart": 2001, // (optional) when did the manager start playing fantasy football
        "favoriteTeam": "gb", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
@@ -165,7 +165,7 @@ export const managers = [
        "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "", // (optional)
        "bio": "Lorem ipsum...",
-       "photo": "", // square ratio recommended (no larger than 500x500)
+       "photo": "/managers/comanchero-pickemz.png", // square ratio recommended (no larger than 500x500)
        "fantasyStart": 2001, // (optional) when did the manager start playing fantasy football
        "favoriteTeam": "ind", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
@@ -187,7 +187,7 @@ export const managers = [
        "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "", // (optional)
        "bio": "Lorem ipsum...",
-       "photo": "", // square ratio recommended (no larger than 500x500)
+       "photo": "/managers/comanchero-pickemz.png", // square ratio recommended (no larger than 500x500)
        "fantasyStart": 2001, // (optional) when did the manager start playing fantasy football
        "favoriteTeam": "gb", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
