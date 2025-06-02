@@ -7,11 +7,15 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Welcome, heroes and would-be champions, to the Justice League Fantasy Football League—where the only thing more questionable than our drafting skills is Aquaman’s Wi-Fi connection.
+  <p>Welcome, heroes and would-be champions, to the Justice League Fantasy Football League—where the only thing more questionable than our drafting skills is Aquaman’s Wi-Fi connection.</p>
 
-In this league, we don’t just fight for truth, justice, and the fantasy point way—we battle for bragging rights, memes, and the sacred right to call Batman a benchwarmer. Whether you’re a seasoned Superman or a rookie Robin, remember: no superpower can save you from a Monday Night Meltdown or a kicker who misses from the one-yard line.
+<p>In this league, we don’t just fight for truth, justice, and the fantasy point way—we battle for bragging rights, memes, and the sacred right to call Batman a benchwarmer.</p> 
 
-So, assemble your squads, don your capes (or sweatpants), and prepare for a season of heroic highs, villainous lows, and more trash talk than Lex Luthor at a Superman roast. May your lineups be mighty and your waiver wire luckier than the Flash on a caffeine binge.</p>
+<p>Whether you’re a seasoned Superman or a rookie Robin, remember: no superpower can save you from a Monday Night Meltdown or a kicker who misses from the one-yard line.</p>
+
+<p>So, assemble your squads, don your capes (or sweatpants), and prepare for a season of heroic highs, villainous lows, and more trash talk than Lex Luthor at a Superman roast.</p>
+
+<p>May your lineups be mighty and your waiver wire luckier than the Flash on a caffeine binge.</p>
 `;
 
 /*   STEP 3   */
