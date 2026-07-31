@@ -1,5 +1,5 @@
 /*   STEP 1   */
-export const leagueID = "1205817997067829248"; // your league ID
+export const leagueID = "1334476367642759168"; // your league ID
 export const leagueName = "Justice League"; // your league name
 export const dues = 100; // (optional) used in template constitution page
 export const dynasty = false; // true for dynasty leagues, false for redraft and keeper
@@ -41,7 +41,7 @@ export const managers = [
        "rival": {
          name: "Rival", // Can be anything (usually your rival's name)
          link: 6, // manager array number within this array, or null to link back to all managers page
-         image: "/managers/eveyone.png", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
+         image: "/managers/ese.png", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
        },
        "favoritePlayer": 1426, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
        "valuePosition": "WR", // (optional) Favorite position (QB, WR, RB, TE, etc.)
